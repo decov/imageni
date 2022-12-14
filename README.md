@@ -1,0 +1,3 @@
+# imageni - an image converter
+
+just another generic image converter...
